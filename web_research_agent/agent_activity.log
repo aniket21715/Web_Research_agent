@@ -1,0 +1,475 @@
+2025-04-23 22:08:08 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 22:08:08 - __main__ - INFO - Analyzing query...
+2025-04-23 22:08:08 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 22:08:08 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 22:08:08 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 22:08:09 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:08:09 - agent.search_tool - ERROR - Error searching for 'impact of artificial intelligence on healthcare': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:08:09 - agent.search_tool - INFO - Searching for: overview impact of artificial intelligence on healthcare
+2025-04-23 22:08:10 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=overview+impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:08:10 - agent.search_tool - ERROR - Error searching for 'overview impact of artificial intelligence on healthcare': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=overview+impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:08:10 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare explained
+2025-04-23 22:08:10 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare+explained&engine=google
+2025-04-23 22:08:10 - agent.search_tool - ERROR - Error searching for 'impact of artificial intelligence on healthcare explained': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare+explained&engine=google
+2025-04-23 22:08:10 - agent.search_tool - INFO - Searching for: impact of artificial
+2025-04-23 22:08:11 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial&engine=google
+2025-04-23 22:08:11 - agent.search_tool - ERROR - Error searching for 'impact of artificial': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial&engine=google
+2025-04-23 22:08:11 - agent.search_tool - INFO - Search complete, found 0 unique results
+2025-04-23 22:08:11 - __main__ - INFO - Scraping 0 web pages...
+2025-04-23 22:08:11 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 22:08:11 - __main__ - INFO - Synthesizing final report...
+2025-04-23 22:08:11 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 22:08:11 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 22:08:11 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_220808.md
+2025-04-23 22:08:11 - __main__ - INFO - Total processing time: 2.44 seconds
+2025-04-23 22:38:01 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 22:38:01 - __main__ - INFO - Analyzing query...
+2025-04-23 22:38:01 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 22:38:01 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 22:38:01 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 22:38:02 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:38:02 - agent.search_tool - ERROR - Error searching for 'impact of artificial intelligence on healthcare': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:38:02 - agent.search_tool - INFO - Searching for: overview impact of artificial intelligence on healthcare
+2025-04-23 22:38:03 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=overview+impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:38:03 - agent.search_tool - ERROR - Error searching for 'overview impact of artificial intelligence on healthcare': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=overview+impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:38:03 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare explained
+2025-04-23 22:38:03 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare+explained&engine=google
+2025-04-23 22:38:03 - agent.search_tool - ERROR - Error searching for 'impact of artificial intelligence on healthcare explained': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare+explained&engine=google
+2025-04-23 22:38:03 - agent.search_tool - INFO - Searching for: impact of artificial
+2025-04-23 22:38:04 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial&engine=google
+2025-04-23 22:38:04 - agent.search_tool - ERROR - Error searching for 'impact of artificial': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial&engine=google
+2025-04-23 22:38:04 - agent.search_tool - INFO - Search complete, found 0 unique results
+2025-04-23 22:38:04 - __main__ - INFO - Scraping 0 web pages...
+2025-04-23 22:38:04 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 22:38:04 - __main__ - INFO - Synthesizing final report...
+2025-04-23 22:38:04 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 22:38:04 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 22:38:04 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_223801.md
+2025-04-23 22:38:04 - __main__ - INFO - Total processing time: 2.36 seconds
+2025-04-23 22:41:24 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 22:41:24 - __main__ - INFO - Analyzing query...
+2025-04-23 22:41:24 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 22:41:24 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 22:41:24 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 22:41:25 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:41:25 - agent.search_tool - ERROR - Error searching for 'impact of artificial intelligence on healthcare': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:41:25 - agent.search_tool - INFO - Searching for: overview impact of artificial intelligence on healthcare
+2025-04-23 22:41:26 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=overview+impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:41:26 - agent.search_tool - ERROR - Error searching for 'overview impact of artificial intelligence on healthcare': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=overview+impact+of+artificial+intelligence+on+healthcare&engine=google
+2025-04-23 22:41:26 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare explained
+2025-04-23 22:41:26 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare+explained&engine=google
+2025-04-23 22:41:26 - agent.search_tool - ERROR - Error searching for 'impact of artificial intelligence on healthcare explained': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial+intelligence+on+healthcare+explained&engine=google
+2025-04-23 22:41:26 - agent.search_tool - INFO - Searching for: impact of artificial
+2025-04-23 22:41:27 - agent.search_tool - ERROR - Request failed: 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial&engine=google
+2025-04-23 22:41:27 - agent.search_tool - ERROR - Error searching for 'impact of artificial': 401 Client Error: Unauthorized for url: https://serpapi.com/search?q=impact+of+artificial&engine=google
+2025-04-23 22:41:27 - agent.search_tool - INFO - Search complete, found 0 unique results
+2025-04-23 22:41:27 - __main__ - INFO - Scraping 0 web pages...
+2025-04-23 22:41:27 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 22:41:27 - __main__ - INFO - Synthesizing final report...
+2025-04-23 22:41:27 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 22:41:27 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 22:41:27 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_224124.md
+2025-04-23 22:41:27 - __main__ - INFO - Total processing time: 2.23 seconds
+2025-04-23 22:57:10 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 22:57:10 - __main__ - INFO - Analyzing query...
+2025-04-23 22:57:10 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 22:57:10 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 22:57:10 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 22:57:12 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 22:57:12 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 22:57:12 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 22:57:12 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 22:57:12 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 22:57:13 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 22:57:15 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 22:57:16 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 22:57:17 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 22:57:17 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 22:57:17 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 22:57:20 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 22:57:21 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 22:57:22 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 22:57:23 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - agent.analyzer - INFO - Analyzing content from: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 22:57:23 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 22:57:23 - __main__ - INFO - Synthesizing final report...
+2025-04-23 22:57:23 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 22:57:23 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 22:57:23 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_225710.md
+2025-04-23 22:57:23 - __main__ - INFO - Total processing time: 12.58 seconds
+2025-04-23 23:00:22 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 23:00:22 - __main__ - INFO - Analyzing query...
+2025-04-23 23:00:22 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 23:00:22 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 23:00:22 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 23:00:24 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 23:00:24 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 23:00:24 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 23:00:24 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:00:24 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:00:25 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:00:27 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:00:28 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:00:28 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:00:28 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:00:29 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:00:29 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:00:32 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:00:34 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:00:34 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:00:35 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - agent.analyzer - INFO - Analyzing content from: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:00:35 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:00:35 - __main__ - INFO - Synthesizing final report...
+2025-04-23 23:00:35 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 23:00:35 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 23:00:35 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_230022.md
+2025-04-23 23:00:35 - __main__ - INFO - Total processing time: 12.78 seconds
+2025-04-23 23:03:16 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 23:03:16 - __main__ - INFO - Analyzing query...
+2025-04-23 23:03:16 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 23:03:16 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 23:03:16 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 23:03:17 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 23:03:17 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 23:03:17 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 23:03:17 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:03:18 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:03:19 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:03:20 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:03:20 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:03:20 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:03:23 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:03:23 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:03:23 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:03:27 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:03:28 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:03:30 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:03:30 - agent.scraper - WARNING - Cloudflare protection detected on https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:03:30 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 23:03:30 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:03:30 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:30 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:03:30 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:30 - agent.analyzer - INFO - Analyzing content from: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:03:30 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - agent.analyzer - INFO - Analyzing content from: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:03:31 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:03:31 - __main__ - INFO - Synthesizing final report...
+2025-04-23 23:03:31 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 23:03:31 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 23:03:31 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_230316.md
+2025-04-23 23:03:31 - __main__ - INFO - Total processing time: 15.00 seconds
+2025-04-23 23:06:32 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 23:06:32 - __main__ - INFO - Analyzing query...
+2025-04-23 23:06:32 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 23:06:32 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 23:06:32 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 23:06:33 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 23:06:33 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 23:06:33 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 23:06:33 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:06:35 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:06:35 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:06:36 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:06:38 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:06:38 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:06:38 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:06:41 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:06:41 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:06:41 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:06:45 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:06:45 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:47:01 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 23:47:01 - __main__ - INFO - Analyzing query...
+2025-04-23 23:47:01 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 23:47:01 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 23:47:01 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 23:47:02 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 23:47:02 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 23:47:02 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 23:47:02 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:47:03 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:47:03 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:47:04 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:47:10 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:47:10 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:47:10 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:47:13 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:47:13 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:47:13 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:47:17 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:47:18 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:47:19 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:47:19 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:47:20 - agent.scraper - WARNING - Cloudflare protection detected on https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:47:20 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - agent.analyzer - INFO - Analyzing content from: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:47:20 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:47:20 - __main__ - INFO - Synthesizing final report...
+2025-04-23 23:47:20 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 23:47:20 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 23:47:20 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_234701.md
+2025-04-23 23:47:20 - __main__ - INFO - Total processing time: 19.20 seconds
+2025-04-23 23:52:21 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 23:52:21 - __main__ - INFO - Analyzing query...
+2025-04-23 23:52:21 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 23:52:21 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 23:52:21 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 23:52:23 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 23:52:23 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 23:52:23 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 23:52:23 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:52:24 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:52:24 - __main__ - WARNING - No content extracted from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:52:24 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:52:26 - __main__ - INFO - Successfully scraped 175554 chars from https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:52:26 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:52:28 - __main__ - INFO - Successfully scraped 6290 chars from https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:52:28 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:52:28 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:52:28 - __main__ - WARNING - No content extracted from https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:52:28 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:52:30 - agent.scraper - INFO - Extracted 22153 characters from https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:52:30 - __main__ - INFO - Successfully scraped 22153 chars from https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:52:30 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:52:31 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:52:31 - __main__ - WARNING - No content extracted from https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:52:31 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:52:34 - __main__ - INFO - Successfully scraped 28486 chars from https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:52:34 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:52:34 - agent.scraper - INFO - Extracted 6490 characters from https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:52:34 - __main__ - INFO - Successfully scraped 6490 chars from https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:52:34 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:52:36 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:52:36 - __main__ - WARNING - No content extracted from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:52:36 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:52:37 - agent.scraper - WARNING - Cloudflare protection detected on https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:52:37 - __main__ - WARNING - No content extracted from https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:52:37 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 23:52:37 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:52:37 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:52:37 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:52:40 - __main__ - ERROR - Error during research process: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Traceback (most recent call last):
+  File "D:\web_research_agent\main.py", line 87, in main
+    analysis = content_analyzer.analyze(content, query_info)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\web_research_agent\agent\analyzer.py", line 70, in analyze
+    key_points = self._extract_key_points(text, query_info)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\web_research_agent\agent\analyzer.py", line 207, in _extract_key_points
+    return self.gemini.extract_key_points(text, query)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\web_research_agent\agent\gemini_api.py", line 22, in extract_key_points
+    response = self.model.generate_content(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Roaming\Python\Python311\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-23 23:58:31 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-23 23:58:33 - agent.gemini_api - INFO - Available models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.5-pro-preview-03-25', 'models/gemini-2.5-flash-preview-04-17', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/learnlm-2.0-flash-experimental', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002', 'models/gemini-2.0-flash-live-001']
+2025-04-23 23:58:33 - agent.gemini_api - WARNING - No suitable Gemini model found. Using default.
+2025-04-23 23:58:33 - agent.gemini_api - INFO - Using model: gemini-1.5-flash
+2025-04-23 23:58:33 - __main__ - INFO - Analyzing query...
+2025-04-23 23:58:33 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-23 23:58:33 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-23 23:58:33 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-23 23:58:34 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-23 23:58:34 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-23 23:58:34 - __main__ - INFO - Scraping 10 web pages...
+2025-04-23 23:58:34 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:58:35 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:58:35 - __main__ - WARNING - No content extracted from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:58:35 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:58:36 - __main__ - INFO - Successfully scraped 175554 chars from https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:58:36 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:58:37 - __main__ - INFO - Successfully scraped 6290 chars from https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:58:37 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:58:37 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:58:37 - __main__ - WARNING - No content extracted from https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:58:37 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:58:40 - agent.scraper - INFO - Extracted 22153 characters from https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:58:40 - __main__ - INFO - Successfully scraped 22153 chars from https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:58:40 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:58:40 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:58:40 - __main__ - WARNING - No content extracted from https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:58:40 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:58:44 - __main__ - INFO - Successfully scraped 28486 chars from https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:58:44 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:58:44 - agent.scraper - INFO - Extracted 6490 characters from https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:58:44 - __main__ - INFO - Successfully scraped 6490 chars from https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:58:44 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:58:46 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:58:46 - __main__ - WARNING - No content extracted from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:58:46 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:58:47 - agent.scraper - WARNING - Cloudflare protection detected on https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:58:47 - __main__ - WARNING - No content extracted from https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:58:47 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-23 23:58:47 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-23 23:58:47 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:58:47 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-23 23:58:52 - agent.analyzer - INFO - Analyzing content from: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-23 23:58:54 - agent.analyzer - INFO - Analyzing content from: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-23 23:58:54 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:58:54 - agent.analyzer - INFO - Analyzing content from: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-23 23:58:57 - agent.analyzer - INFO - Analyzing content from: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-23 23:58:57 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:58:57 - agent.analyzer - INFO - Analyzing content from: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-23 23:59:01 - agent.analyzer - INFO - Analyzing content from: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-23 23:59:03 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-23 23:59:03 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:59:03 - agent.analyzer - INFO - Analyzing content from: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-23 23:59:03 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-23 23:59:03 - __main__ - INFO - Synthesizing final report...
+2025-04-23 23:59:03 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-23 23:59:03 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-23 23:59:03 - __main__ - INFO - Research completed. Report saved to reports/report_20250423_235831.md
+2025-04-23 23:59:03 - __main__ - INFO - Total processing time: 32.29 seconds
+2025-04-24 00:16:28 - __main__ - INFO - Starting research on query: Impact of artificial intelligence on healthcare
+2025-04-24 00:16:29 - agent.gemini_api - INFO - Available models: ['models/chat-bison-001', 'models/text-bison-001', 'models/embedding-gecko-001', 'models/gemini-1.0-pro-vision-latest', 'models/gemini-pro-vision', 'models/gemini-1.5-pro-latest', 'models/gemini-1.5-pro-001', 'models/gemini-1.5-pro-002', 'models/gemini-1.5-pro', 'models/gemini-1.5-flash-latest', 'models/gemini-1.5-flash-001', 'models/gemini-1.5-flash-001-tuning', 'models/gemini-1.5-flash', 'models/gemini-1.5-flash-002', 'models/gemini-1.5-flash-8b', 'models/gemini-1.5-flash-8b-001', 'models/gemini-1.5-flash-8b-latest', 'models/gemini-1.5-flash-8b-exp-0827', 'models/gemini-1.5-flash-8b-exp-0924', 'models/gemini-2.5-pro-exp-03-25', 'models/gemini-2.5-pro-preview-03-25', 'models/gemini-2.5-flash-preview-04-17', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-2.0-pro-exp', 'models/gemini-2.0-pro-exp-02-05', 'models/gemini-exp-1206', 'models/gemini-2.0-flash-thinking-exp-01-21', 'models/gemini-2.0-flash-thinking-exp', 'models/gemini-2.0-flash-thinking-exp-1219', 'models/learnlm-1.5-pro-experimental', 'models/learnlm-2.0-flash-experimental', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/embedding-001', 'models/text-embedding-004', 'models/gemini-embedding-exp-03-07', 'models/gemini-embedding-exp', 'models/aqa', 'models/imagen-3.0-generate-002', 'models/gemini-2.0-flash-live-001']
+2025-04-24 00:16:29 - agent.gemini_api - WARNING - No suitable Gemini model found. Using default.
+2025-04-24 00:16:29 - agent.gemini_api - INFO - Using model: gemini-1.5-flash
+2025-04-24 00:16:29 - __main__ - INFO - Analyzing query...
+2025-04-24 00:16:29 - agent.query_analyzer - INFO - Analyzing query: Impact of artificial intelligence on healthcare
+2025-04-24 00:16:29 - __main__ - INFO - Searching with terms: ['impact of artificial intelligence on healthcare', 'overview impact of artificial intelligence on healthcare', 'impact of artificial intelligence on healthcare explained', 'impact of artificial']
+2025-04-24 00:16:29 - agent.search_tool - INFO - Searching for: impact of artificial intelligence on healthcare
+2025-04-24 00:16:31 - agent.search_tool - INFO - Found 10 results, stopping search
+2025-04-24 00:16:31 - agent.search_tool - INFO - Search complete, found 10 unique results
+2025-04-24 00:16:31 - __main__ - INFO - Scraping 10 web pages...
+2025-04-24 00:16:31 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-24 00:16:32 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-24 00:16:32 - __main__ - WARNING - No content extracted from https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-24 00:16:32 - agent.scraper - INFO - Scraping URL: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-24 00:16:33 - __main__ - INFO - Successfully scraped 175554 chars from https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-24 00:16:33 - agent.scraper - INFO - Scraping URL: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-24 00:16:34 - __main__ - INFO - Successfully scraped 6290 chars from https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-24 00:16:34 - agent.scraper - INFO - Scraping URL: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-24 00:16:34 - agent.scraper - ERROR - Error fetching https://www.weforum.org/stories/2025/03/ai-transforming-global-health/: 403 Client Error: Forbidden for url: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-24 00:16:34 - __main__ - WARNING - No content extracted from https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-24 00:16:34 - agent.scraper - INFO - Scraping URL: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-24 00:16:37 - agent.scraper - INFO - Extracted 22153 characters from https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-24 00:16:37 - __main__ - INFO - Successfully scraped 22153 chars from https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-24 00:16:37 - agent.scraper - INFO - Scraping URL: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-24 00:16:37 - agent.scraper - ERROR - Error fetching https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges: 403 Client Error: Forbidden for url: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-24 00:16:37 - __main__ - WARNING - No content extracted from https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-24 00:16:37 - agent.scraper - INFO - Scraping URL: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-24 00:16:41 - __main__ - INFO - Successfully scraped 28486 chars from https://www.nature.com/articles/s41415-023-5845-2
+2025-04-24 00:16:41 - agent.scraper - INFO - Scraping URL: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-24 00:16:41 - agent.scraper - INFO - Extracted 6490 characters from https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-24 00:16:41 - __main__ - INFO - Successfully scraped 6490 chars from https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-24 00:16:41 - agent.scraper - INFO - Scraping URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-24 00:16:43 - agent.scraper - WARNING - Failed to extract content from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-24 00:16:43 - __main__ - WARNING - No content extracted from https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-24 00:16:43 - agent.scraper - INFO - Scraping URL: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-24 00:16:44 - agent.scraper - WARNING - Attempting to bypass Cloudflare for https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-24 00:16:44 - __main__ - WARNING - No content extracted from https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-24 00:16:44 - __main__ - INFO - Analyzing content relevance and reliability...
+2025-04-24 00:16:44 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC10804900/
+2025-04-24 00:16:44 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-24 00:16:44 - agent.analyzer - INFO - Analyzing content from: https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+2025-04-24 00:16:48 - agent.analyzer - INFO - Analyzing content from: https://www.forbes.com/councils/forbesbusinesscouncil/2023/11/06/what-is-the-impact-of-artificial-intelligence-on-the-healthcare-industry/
+2025-04-24 00:16:51 - agent.analyzer - INFO - Analyzing content from: https://www.weforum.org/stories/2025/03/ai-transforming-global-health/
+2025-04-24 00:16:51 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-24 00:16:51 - agent.analyzer - INFO - Analyzing content from: https://www.foreseemed.com/artificial-intelligence-in-healthcare
+2025-04-24 00:16:53 - agent.analyzer - INFO - Analyzing content from: https://legacy.himss.org/resources/impact-ai-healthcare-workforce-balancing-opportunities-and-challenges
+2025-04-24 00:16:53 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-24 00:16:53 - agent.analyzer - INFO - Analyzing content from: https://www.nature.com/articles/s41415-023-5845-2
+2025-04-24 00:16:57 - agent.analyzer - INFO - Analyzing content from: https://www.dartmouth-hitchcock.org/stories/article/future-healthcare-impact-ai
+2025-04-24 00:16:59 - agent.analyzer - INFO - Analyzing content from: https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/
+2025-04-24 00:16:59 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-24 00:16:59 - agent.analyzer - INFO - Analyzing content from: https://onlinedegrees.sandiego.edu/ai-healthcare/
+2025-04-24 00:16:59 - agent.analyzer - WARNING - Empty content, skipping analysis
+2025-04-24 00:16:59 - __main__ - INFO - Synthesizing final report...
+2025-04-24 00:16:59 - agent.synthesizer - INFO - Synthesizing report for query: Impact of artificial intelligence on healthcare
+2025-04-24 00:16:59 - agent.synthesizer - INFO - Report synthesis complete, length: 328
+2025-04-24 00:16:59 - __main__ - INFO - Research completed. Report saved to reports/report_20250424_001628.md
+2025-04-24 00:16:59 - __main__ - INFO - Total processing time: 31.25 seconds
